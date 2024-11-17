@@ -1,0 +1,10 @@
+HospitalID,Name,Role,ContactNumber,Gender,Age,Password,Email
+D003,Thomas,Doctor,32345678,Male,28,password,thomas@hospital.com
+D002,Albert Lim,Doctor,32345678,Male,25,password,albert.lim@hospital.com
+D001,John Smith,Doctor,32345678,Male,45,password,john.smith@hospital.com
+P001,Mark Lee,Pharmacist,23456789,Male,29,password1,mark.lee@hospital.com
+P003,Karthik,Pharmacist,1234567890,Male,50,password,karthik.wow@gmail.com
+P002,Kelvin,Pharmacist,2356789, Male,35,password,kelvin@hospital.com
+A003,Admin,Administrator,33456789,Male,30,password,admin@hospital.com
+A001,Andy Lim,Administrator,12345678,Male,23,password,andy.lim@hospital.com
+A002,Emily Clarke,Administrator,23456789,Female,38,password,emily.clarke@hospital.com

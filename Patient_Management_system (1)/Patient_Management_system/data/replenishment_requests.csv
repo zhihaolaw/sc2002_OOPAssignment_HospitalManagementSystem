@@ -1,0 +1,5 @@
+Request ID,Medication ID,Quantity,Status
+2,M001,120,Approved
+3,M002,150,Approved
+4,M002,500,Denied
+8,M002,200,Approved

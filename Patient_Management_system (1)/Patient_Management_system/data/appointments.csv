@@ -1,0 +1,11 @@
+appointmentID,patientID,doctorID,doctorName,date,time,status,outcome,service,medication,notes
+A010,P1001,D003,Thomas,27/5/2025,16:00,Completed,Follow-Up,Consultation,M002,None
+A009,P1001,D003,Thomas,12/7/2024,17:00,Completed,Follow-Up,MRI,Panadol,None
+A007,P1002,D003,Thomas,17/12/2024,19:00,Scheduled,N/A,N/A,N/A,N/A
+A008,P1001,D003,Thomas,12/12/2024,13:00,Completed,None,MRI,M002,None
+A005,P1001,D001,John Smith,12/12/2024,16:00,Pending,N/A,N/A,N/A,N/A
+A006,,D003,Thomas,14/12/2024,16:00,Available,N/A,N/A,N/A,N/A
+A003,N/A,D002,Albert Lim,18/10/2024,12:00,Available,N/A,N/A,N/A,N/A
+A004,P1001,D002,Albert Lim,12/12/2024,19:00,Completed,Followup,Mri,Painkiller,None
+A001,P1002,D001,John Smith,18/10/2024,13:00,Scheduled,N/A,N/A,N/A,N/A
+A002,P1002,D002,Albert Lim,18/10/2024,14:00,Completed,Pending,Cardiology Consultation,Insulin,Cardiology follow-up for Diabetes control
