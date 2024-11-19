@@ -106,26 +106,26 @@ request is approved, the stock level will be updated automatically.
 line can be imported from a file.
 
 ## New features implemented
-+ Login System
+Login System
 + new password length of at least 8 characters (lowercase, uppercase, number and special character)
 + Limited Login Attempts are allowed, with a maximum of  3 before the system automatically logs out to mitigate brute force attacks
 + Hashing is used in our login system as an encryption measure for security of User 
 + Passwords will be hidden when the datasheet is viewed externally 
 
 
-+ Patient Feedback System
+Patient Feedback System
 + Patients are able to give Feedback on top of the basic features.
 + Feedback System can be accessed by the staff based on patient feedback.
 
-+ File Path Management 
+File Path Management 
 + File Path class is added as a centralized source for the file paths of the data files to be used in.
 + Reduces errors within individual classes in ensuring issues like missing or inaccessible files can be detected easily.
 
-+ Symptom Checker Chatbot
+Symptom Checker Chatbot
 + This feature is used to split minor queries to the chatbot and reduce the patient dependency on the hospital staff.
 + A symptom checker chatbot is implemented by Hugging face API call which is used in our system in SymptomChecker class
 
-+ Real Time Telegram Emergency Notifications
+Real Time Telegram Emergency Notifications
 + This feature is used for patients to send real time Emergency alerts to allow healthcare staff are instantly informed
 + The use of Telegram ensures that alerts are delivered instantly to relevant stakeholders, making the system efficient and responsive
 
