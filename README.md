@@ -10,6 +10,7 @@ patient care, and streamline administrative processes.
 
 + CSV file can be found [here](https://github.com/zhihaolaw/sc2002_OOPAssignment_HospitalManagementSystem/tree/main/Patient_Management_system/data)
 + YouTube Link to test cases [here](https://www.youtube.com/playlist?list=PLE1gXAO1j9phnYgYi6XZs5tpKHlPeWA6p)
++ Setup instruction link [here](https://github.com/zhihaolaw/sc2002_OOPAssignment_HospitalManagementSystem/blob/main/Setup%20Instructions.pdf)
 
 ## User Roles and System Capabilities: 
 
