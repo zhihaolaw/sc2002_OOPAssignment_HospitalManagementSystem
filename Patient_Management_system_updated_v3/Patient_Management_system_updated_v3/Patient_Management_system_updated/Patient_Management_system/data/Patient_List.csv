@@ -1,4 +1,0 @@
-Patient ID,Name,Date of Birth,Gender,Role,Age,Blood Type,Phone Number,Password,Email Address,Past Diagnosis,Past Treatments
-P1003,Charlie White,08/07/1990,Male,Patient,23,O-,9686536527,password,charlie.white@example.com,Asthma,Inhaler Treatment
-P1001,Alice Brown,14/05/1980,Female,Patient,35,A+,1234567890,newPassword,alice.brown@example.com,Diabetes,Insulin inhaler
-P1002,Bob Stone,22/11/1975,Male,Patient,26,B+,3456781235,password,bob.stone@example.com,Typhoid,Antibiotic therapy
