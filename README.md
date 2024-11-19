@@ -8,7 +8,8 @@ including patient management, appointment scheduling, staff management, and bill
 The system is expected to facilitate efficient management of hospital resources, enhance 
 patient care, and streamline administrative processes.
 
-CSV file can be found [here](https://github.com/zhihaolaw/sc2002_OOPAssignment_HospitalManagementSystem/tree/main/Patient_Management_system_updated_v3/Patient_Management_system_updated_v3/Patient_Management_system_updated/Patient_Management_system/data)
+CSV file can be found [here](https://github.com/zhihaolaw/sc2002_OOPAssignment_HospitalManagementSystem/tree/main/Patient_Management_system/data)
+YouTube Link to test cases [here](https://www.youtube.com/playlist?list=PLE1gXAO1j9phnYgYi6XZs5tpKHlPeWA6p)
 
 ## User Roles and System Capabilities: 
 
@@ -162,15 +163,10 @@ application (non-Graphical User Interface).
 ○ No JSON or XML formats are to be used.
 
 ## Contributors
-1. @zhihaolaw (Login System and User)
-2. name ()
+1. @zhihaolaw
+2. @UsamaBafana
 3. name ()
 4. name ()
 5. name ()
-
-## References
-1. ref 1
-2. ref 2
-3. ref 3
 
 
