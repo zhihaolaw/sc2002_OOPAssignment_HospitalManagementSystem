@@ -1,0 +1,7 @@
+Prescription ID,Appointment ID,Medication ID,Quantity,Status
+PR001,A001,M001,30,Dispensed
+PR006,A010,M002,20,Dispensed
+PR003,A003,M003,20,Dispensed
+PR002,A002,M002,15,Dispensed
+PR005,A006,M001,20,Dispensed
+PR004,A008,M002,20,Dispensed

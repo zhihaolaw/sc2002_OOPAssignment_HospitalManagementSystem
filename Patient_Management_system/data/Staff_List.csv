@@ -1,0 +1,9 @@
+HospitalID,Name,Role,Gender,Age,ContactNumber,Password,Email
+D003,Thomas,Doctor,Male,28,32345678,5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8,thomas@hospital.com
+D002,Albert Lim,Doctor,Male,25,32345678,5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8,albert.lim@hospital.com
+D001,John Smith,Doctor,Male,45,32345678,5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8,john.smith@hospital.com
+P001,Mark Lee,Pharmacist,Male,29,23456789,5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8,mark.lee@hospital.com
+P002,Kelvin,Pharmacist, Male,35,2356789,5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8,kelvin@hospital.com
+A003,Admin,Administrator,Male,30,33456789,5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8,admin@hospital.com
+A001,Andy Lim,Administrator,Male,23,12345678,HASHED:1d707811988069ca760826861d6d63a10e8c3b7f171c4441a6472ea58c11711b,andy.lim@hospital.com
+A002,Emily Clarke,Administrator,Female,38,23456789,5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8,emily.clarke@hospital.com
