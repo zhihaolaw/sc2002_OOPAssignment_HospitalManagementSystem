@@ -1,4 +1,0 @@
-Patient ID,Name,DOB,Gender,Role,Age,BloodType,ContactNumber,Password,Email,PastDiagnoses,PastTreatments
-P1003,Charlie White,null,null,Patient,23,null,9686536527,password1,charlie.white@example.com,Asthma,Inhaler Treatment
-P1001,Alice Brown,null,null,Patient,987654321,null,1234567890,password1,alice.brown@example.com,Diabetes; Kidney,Insulin inhaler; Water
-P1002,Bob Stone,null,null,Patient,26,null,3456781235,password1,bob.stone@example.com,Typhoid; Heart; Kidney Stone; Bladder,Antibiotic therapy; None; Drink Water; Surgery
