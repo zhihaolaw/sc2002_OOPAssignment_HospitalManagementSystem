@@ -12,6 +12,7 @@ patient care, and streamline administrative processes.
 + YouTube Link to test cases [here](https://www.youtube.com/playlist?list=PLE1gXAO1j9phnYgYi6XZs5tpKHlPeWA6p)
 + Setup instruction link [here](https://github.com/zhihaolaw/sc2002_OOPAssignment_HospitalManagementSystem/blob/main/Setup%20Instructions%20for%20Patient_Management_System.pdf)
 + Link to Hash generator [here](https://tools.keycdn.com/sha256-online-generator)
+
 ## User Roles and System Capabilities: 
 
 ## 1. All Users: 
@@ -191,8 +192,8 @@ application (non-Graphical User Interface).
 ## Contributors
 1. @zhihaolaw
 2. @UsamaBafana
-3. name ()
-4. name ()
-5. name ()
+3. @LeeZhengWee
+4. @KarthikRaj s/o Mohan
+5. @ChinHuiQi, Cheryl
 
 
